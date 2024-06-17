@@ -1,0 +1,357 @@
+Skip to main content
+AMIGO
+My Courses 
+My Class Schedule & Planner 
+beSocial
+18
+4
+Somnath Das . 
+Network Basics (CSIT127)-Semester III
+DashboardMy courses Network Basics (CSIT127)-Semester III #Module II Network Protocols and Communication 2nd Module Assessment
+Question 1
+Not yet answered
+Marked out of 1.00
+Not flaggedFlag question
+Question text
+A walkie-talkie operates in ____________.
+Select one:
+
+a.
+simplex
+
+b.
+half duplex
+
+c.
+full duplex
+
+d.
+semi-duplex
+
+Question 2
+Not yet answered
+Marked out of 1.00
+Not flaggedFlag question
+Question text
+___________ is a technique of transmitting data or images or videos (information) using a continuous signal.
+Select one:
+
+a.
+direct
+
+b.
+network
+
+c.
+analog
+
+d.
+multiple
+
+Question 3
+Not yet answered
+Marked out of 1.00
+Not flaggedFlag question
+Question text
+Components used for interconnecting dissimilar networks that use different communication protocols.
+Select one:
+
+a.
+Switches
+
+b.
+Gateways
+
+c.
+Routers
+
+d.
+Bridges
+
+Question 4
+Not yet answered
+Marked out of 1.00
+Not flaggedFlag question
+Question text
+Data communication system spanning states, countries, or the whole world is called __________.
+Select one:
+
+a.
+LAN
+
+b.
+WAN
+
+c.
+MAN
+
+d.
+None of the mentioned
+
+Question 5
+Not yet answered
+Marked out of 1.00
+Not flaggedFlag question
+Question text
+A _______________line configuration provides a dedicated link between two devices.
+Select one:
+
+a.
+point-to-point
+
+b.
+receiver -to sender
+
+c.
+multipoint
+
+d.
+any of the these
+
+Question 6
+Not yet answered
+Marked out of 1.00
+Not flaggedFlag question
+Question text
+A ____________ topology is a modified version of the basic star topology.
+Select one:
+
+a.
+network
+
+b.
+two-tiered
+
+c.
+bus
+
+d.
+ring
+
+Question 7
+Not yet answered
+Marked out of 1.00
+Not flaggedFlag question
+Question text
+Which of the following layers is an addition to OSI model when compared with TCP IP model?
+Select one:
+
+a.
+Application layer
+
+b.
+Presentation layer
+
+c.
+Session layer
+
+d.
+Session and Presentation layer
+
+Question 8
+Not yet answered
+Marked out of 1.00
+Not flaggedFlag question
+Question text
+A term that defines the direction of flow of information between devices.
+Select one:
+
+a.
+interconnectivity
+
+b.
+intra connectivity
+
+c.
+transmission mode
+
+d.
+transmission
+
+Question 9
+Not yet answered
+Marked out of 1.00
+Not flaggedFlag question
+Question text
+Which of the following statements can be associated with OSI model?
+Select one:
+
+a.
+A structured way to discuss and easier update system components
+
+b.
+One layer may duplicate lower layer functionality
+
+c.
+Functionality at one layer no way requires information from another layer
+
+d.
+It is an application specific network model
+
+Question 10
+Not yet answered
+Marked out of 1.00
+Not flaggedFlag question
+Question text
+The Open System Interconnection(OSI) reference model includes ___________ layers.
+Select one:
+
+a.
+five
+
+b.
+six
+
+c.
+seven
+
+d.
+eight
+
+Question 11
+Not yet answered
+Marked out of 2.00
+Not flaggedFlag question
+Question text
+A transmission that generally involves dedicated circuits.
+Select one:
+
+a.
+simplex
+
+b.
+half duplex
+
+c.
+full duplex
+
+d.
+semi-duplex
+
+Question 12
+Not yet answered
+Marked out of 2.00
+Not flaggedFlag question
+Question text
+The functionalities of the presentation layer include ____________.
+Select one:
+
+a.
+Data compression
+
+b.
+Data encryption
+
+c.
+Data description
+
+d.
+All of the mentioned
+
+Question 13
+Not yet answered
+Marked out of 2.00
+Not flaggedFlag question
+Question text
+Which of the following isn’t a type of transmission mode?
+Select one:
+
+a.
+physical
+
+b.
+simplex
+
+c.
+full duplex
+
+d.
+half duplex
+
+Question 14
+Not yet answered
+Marked out of 2.00
+Not flaggedFlag question
+Question text
+Delimiting and synchronization of data exchange is provided by __________.
+Select one:
+
+a.
+Application layer
+
+b.
+Session layer
+
+c.
+Transport layer
+
+d.
+Link layer
+
+Question 15
+Not yet answered
+Marked out of 4.00
+Not flaggedFlag question
+Question text
+Transport layer is implemented in ______________.
+Select one:
+
+a.
+End system
+
+b.
+NIC
+
+c.
+Ethernet
+
+d.
+Signal transmission
+
+Question 16
+Not yet answered
+Marked out of 4.00
+Not flaggedFlag question
+Question text
+In OSI model, when data is sent from device A to device B, the 5th layer to receive data at B is _________.
+Select one:
+
+a.
+Application layer
+
+b.
+Session layer
+
+c.
+Transport layer
+
+d.
+Link layer
+
+Question 17
+Not yet answered
+Marked out of 4.00
+Not flaggedFlag question
+Question text
+Fire alarms are based on this type of transmission:
+Select one:
+
+a.
+direct
+
+b.
+network
+
+c.
+analog
+
+d.
+multiple
+
+Skip Quiz navigation
+Quiz navigation
+Finish attempt ...
+Time left 2:43:09
+Jump to...
+Jump to...
+
