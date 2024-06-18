@@ -20,6 +20,10 @@ import {
 } from "@/components/ui/dropdown-menu";
 import { CheckCircle2, XCircle, MoreVertical } from "lucide-react";
 import { formatCurrency, formatNumber } from "@/lib/formatters";
+import {
+  ActiveToggleDropdownItem,
+  DeleteDropdownItem,
+} from "./_components/ProductActions";
 
 export default function AdminProductsPage() {
   return (
@@ -30,7 +34,7 @@ export default function AdminProductsPage() {
           <Link href="/admin/products/new">Add Product</Link>
         </Button>
       </div>
-      {/* <ProductsTable /> */}
+      <ProductsTable />
     </>
   );
 }
@@ -71,7 +75,7 @@ async function ProductsTable() {
               {product.isAvailableForPurchase ? (
                 <>
                   <span className="sr-only">Available</span>
-                  <CheckCircle2 />
+                  <CheckCircle2 color="green" />
                 </>
               ) : (
                 <>
