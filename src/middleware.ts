@@ -19,7 +19,7 @@ async function isAuthenticated(req: NextRequest) {
         .toString()
         .split(":");
 
-    // isValidPassword(password, 'jhkjh')
+    // isValidPassword(password, '2ndvalue')
     // return false
 
     return (
