@@ -37,3 +37,7 @@ npx shadcn-ui@latest add table
 # install shadcn Dropdown menu component
 
 npx shadcn-ui@latest add dropdown-menu
+
+# install stripe
+
+npm i stripe @stripe/stripe-js
