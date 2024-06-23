@@ -41,3 +41,7 @@ npx shadcn-ui@latest add dropdown-menu
 # install stripe
 
 npm i stripe @stripe/stripe-js
+
+# email sending package
+
+npm i resend react-email
